@@ -1,22 +1,22 @@
 :root {
-    --background-dark-primary: #282828 !important;		
-    --background-dark-secondary: #282828 !important;		
-    --background-dark-tertiary: #0c0c0c !important;	
-    --background-primary: #141414 !important;	
-    --background-secondary: #111111 !important;	
-    --background-tertiary: #0c0c0c !important;	
+    --background-dark-primary: #0000ff !important;		
+    --background-dark-secondary: #0000ff !important;		
+    --background-dark-tertiary: #0000ff !important;	
+    --background-primary: #0000ff !important;	
+    --background-secondary: #0000ff !important;	
+    --background-tertiary: #0000ff !important;	
     --background-floating: black !important;
     --background-modifier-hover: rgba(50,50,50,0.16) !important;	
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
     --background-modifier-selected: rgba(50,50,50,0.32) !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
-    --bd-blue: #7289da !important;
-    --bd-blue-hover: #677bc4 !important;
-    --bd-blue-active: #5b6eae !important;
+    --bd-blue: #0000ff !important;
+    --bd-blue-hover: #0000ff !important;
+    --bd-blue-active: #0000ff !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #242424 !important;
+    background-color: #0000ff !important;
     border-color: transparent !important;
 }
 
@@ -30,13 +30,13 @@
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    background-color: #111111; !important;
-    border: 4px solid #141414 !important;
+    background-color: #0000ff; !important;
+    border: 4px solid #0000ff !important;
     border-radius: 8px !important;
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #242424 !important;
+    background-color: 0000ff !important;
     border-color: transparent; !important;
 }
 
@@ -64,16 +64,16 @@
 }
 	
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
-    background-color: #000000;
+    background-color: #0000ff;
 }
 
 .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
-    background-color: #0c0c0c;
+    background-color: #0000ff;
     color: hsla(0,0%,100%,.8);
 }
 
 .theme-dark .headerNormal-T_seeN {
-    background-color: #000000;
+    background-color: #0000ff;
 }
 
 .theme-dark .quickMessage-1yeL4E {
